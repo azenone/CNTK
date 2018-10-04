@@ -75,7 +75,7 @@ In CNTK configuration files Parameter Sets are organized in a hierarchical fashi
 
 ### Default Values
 
-Most parameters in configuration files have a default value which will be used if no configuration value is specified. If there is no default value and the value cannot be found in a search, an exception will be displayed and the program will exit.
+Most parameters in configuration files have a default value which will be used if no configuration value is specified. If there is no default value and the value cannot be found in a search, an exception will be displayed, and the program will exit.
 
 ### Repeated Values
 
